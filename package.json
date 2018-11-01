@@ -118,7 +118,7 @@
     "@wwwouter/tslint-contrib": "^1.0.0",
     "apiai": "^4.0.0",
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.8.5",
+    "blessed-contrib": "^4.8.8",
     "blue-tape": "^1.0.0",
     "check-node-version": "^3.0.0",
     "coveralls": "^3.0.0",
