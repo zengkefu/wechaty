@@ -77,7 +77,7 @@
   },
   "dependencies": {
     "brolog": "^1.8.1",
-    "clone-class": "^0.6.11",
+    "clone-class": "^0.6.20",
     "cuid": "^2.1.1",
     "file-box": "^0.8.23",
     "hot-import": "^0.2.1",
