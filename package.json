@@ -105,7 +105,7 @@
     "@types/fluent-ffmpeg": "^2.1.0",
     "@types/fs-extra": "^5.0.3",
     "@types/glob": "^5.0.0p",
-    "@types/mime": "^2.0.0",
+    "@types/mime": "^2.0.1",
     "@types/node": "^10.3.0",
     "@types/pkg-dir": "^2.0.0",
     "@types/promise-retry": "^1.1.3",
